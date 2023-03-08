@@ -9,17 +9,21 @@ To investigate the prevalence of "delete" in Dutch tweets and determine whether 
 Previous research in the field suggests an increase in the use of English loanwords. Here are some references to studies about the subject.
 
 [1] Boon, H. English Loanwords in Dutch: Dutch Native Speakers’ Attitudes Towards English Lexical Borrowings. BS thesis. 2015.
+
 https://studenttheses.uu.nl/bitstream/handle/20.500.12932/21062/thesis%20English%20loanwords.pdf?sequence=2
 
 [2] Zenner, Eline, Dirk Speelman, and Dirk Geeraerts. "Cognitive Sociolinguistics meets loanword research: Measuring variation in the success of anglicisms in Dutch." Cognitive Linguistics 23.4 (2012): 749-792.
+
 https://www-degruyter-com/document/doi/10.1515/cog-2012-0023/html
 
 [3] Zenner, Eline, Dirk Speelman, and Dirk Geeraerts. "A sociolinguistic analysis of borrowing in weak contact situations: English loanwords and phrases in expressive utterances in a Dutch reality TV show." International Journal of Bilingualism 19.3 (2015): 333-346.
+
 https://journals-sagepub.com/doi/pdf/10.1177/1367006914521699
 
 
 ## Research Question & Hypothesis
 
+# Research Question: 
 
 
 ## Method
