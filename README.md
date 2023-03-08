@@ -37,11 +37,15 @@ This project makes use of the RUG in-house Dutch twitter database.
 2. Count the number of occurences
 3. Calculate the ratios
 
+Categorical variables:
+- Independent: Date (2010 & 2020)
+- Dependent: Word use (delete & verwijder)
+
 Contingency table:
 
-|      | "delete" | "verwijder" |   |   |
-|------|----------|-------------|---|---|
-| 2010 | n        | n           |   |   |
-| 2020 | n        | n           |   |   |
+|      | "delete" | "verwijder" |
+|------|----------|-------------|
+| 2010 | n        | n           |
+| 2020 | n        | n           |
 
 
