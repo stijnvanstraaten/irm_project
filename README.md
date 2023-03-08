@@ -23,7 +23,18 @@ https://journals-sagepub.com/doi/pdf/10.1177/1367006914521699
 
 ## Research Question & Hypothesis
 
-# Research Question: 
+Research Question: Has there been an increase in the word usage of “delete” instead of “verwijder” between 2010
+and 2020?
 
+Hypothesis: There has been an increase in the usage of “delete” instead of “verwijder” between 2010 and
+2020. (there is a positive relationship between them)
 
 ## Method
+
+This project makes use of the RUG in-house Dutch tweets database.
+
+1. Take the tweets from a day in 2010 and 2020
+2. Count the number of occurences
+3. Calculate the ratios
+
+
