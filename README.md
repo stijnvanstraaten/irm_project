@@ -31,10 +31,17 @@ Hypothesis: There has been an increase in the usage of “delete” instead of �
 
 ## Method
 
-This project makes use of the RUG in-house Dutch tweets database.
+This project makes use of the RUG in-house Dutch twitter database.
 
 1. Take the tweets from a day in 2010 and 2020
 2. Count the number of occurences
 3. Calculate the ratios
+
+Contingency table:
+
+|      | "delete" | "verwijder" |   |   |
+|------|----------|-------------|---|---|
+| 2010 | n        | n           |   |   |
+| 2020 | n        | n           |   |   |
 
 
