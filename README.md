@@ -47,6 +47,6 @@ This project makes use of the RUG in-house Dutch twitter database.
 3. To give the file execution rights run the following command: chmod +x tweet_extraction.sh
 4. Run the file with the following command: ./tweet_extraction.sh **Note: if you get an error, run: sed -i -e 's/\r$//' tweet_extraction.sh**
 5. Extract the generated tweets to your local machine using the following command: scp -r *student-number*@karora.let.rug.nl:~/tweet_texts *your local folder*
-6. Run the .ipyb file
+6. Run the .ipynb file
 7. Calculate the ratios
 
